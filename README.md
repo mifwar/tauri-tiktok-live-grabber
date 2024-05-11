@@ -17,5 +17,10 @@ This project uses the [TikTokLiveRust](https://github.com/jwdeveloper/TikTokLive
 ## Demo
 
 Here's a video demonstration of the Tauri Tiktok Live Grabber in action:
+
+GIF format demo:
+![Demo](./public/tauri-tiktok-grabber.gif)
+
+Video format demo:
 https://github.com/mifwar/tauri-tiktok-live-grabber/assets/37469214/b64b3dd5-1dd5-4545-9867-5bc475721c35
 
