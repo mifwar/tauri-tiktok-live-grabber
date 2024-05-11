@@ -14,6 +14,18 @@ A Tiktok live grabber running inside Tauri.
 
 This project uses the [TikTokLiveRust](https://github.com/jwdeveloper/TikTokLiveRust) library for grabbing Tiktok live streams.
 
+## Running the Project
+To run the Tauri Tiktok Live Grabber, follow these steps:
+
+1. Install the project dependencies:
+   ```bash
+   bun install
+   ```
+2. Run the Tauri development server:
+    ```bash
+    bun run tauri dev
+    ```
+
 ## Demo
 
 Here's a video demonstration of the Tauri Tiktok Live Grabber in action:
